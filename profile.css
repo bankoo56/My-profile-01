@@ -4,13 +4,13 @@ body {
 
 .bg1 {
     background-image: url(https://img.freepik.com/free-vector/subtle-rombus-white-gray-pattern-background_1017-25098.jpg?w=1380&t=st=1670665422~exp=1670666022~hmac=72df255de3f91b135ecafc742b0c536f4bd3c7598159b9a47334d54096a740d0);
-    height: 670px;
     box-shadow: 10px 10px 5px lightblue;
     margin-left: 15%;
     margin-right: 15%;
     border-radius: 15px;
     padding-top: 5%;
     padding-left: 5%;
+    padding-bottom: 5%;
 
 }
 
